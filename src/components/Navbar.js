@@ -34,8 +34,8 @@ const Navbar = () => {
             CONTEXT
           </IconButton>
           <Box>
-          <Button onClick={() => navigate("/")} color="inherit">login</Button>
-          <Button onClick={() => navigate("/about")} color="inherit">register</Button>
+          <Button onClick={() => navigate("/")} color="inherit">Artırma</Button>
+          <Button onClick={() => navigate("/about")} color="inherit">Azalma</Button>
 
           </Box>
         </Toolbar>
